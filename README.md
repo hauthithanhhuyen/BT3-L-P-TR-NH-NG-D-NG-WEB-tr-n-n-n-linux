@@ -18,8 +18,17 @@ LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 B1.Tạo database mới
 <img width="1678" height="472" alt="image" src="https://github.com/user-attachments/assets/170fd73c-55c1-4f4a-ae66-f93398868968" />
 B2.TẠO FLOW NODE-RED
-Tạo account admin ( dùng bcrypt hash)
+1.Tạo account admin ( dùng bcrypt hash)
 <img width="947" height="440" alt="image" src="https://github.com/user-attachments/assets/413bb53b-19ce-4f7e-a3ea-e153ec3a26ef" />
-
-
+<img width="1394" height="449" alt="image" src="https://github.com/user-attachments/assets/f72661f3-72d6-42e0-9521-3c26749574c7" />
+2.Web gọi API này khi nhấn “Gọi /api/latest” hoặc khi tự động cập nhật để hiển thị giá trị cảm biến mới nhất.
+<img width="1228" height="336" alt="image" src="https://github.com/user-attachments/assets/5f325964-955a-4738-b422-270d0d2839b1" />
+3.Dùng khi test nhanh API mà không cần đăng nhập, hoặc khôi phục khi có lỗi trong bản Auth
+<img width="1292" height="223" alt="image" src="https://github.com/user-attachments/assets/ec31594a-63d7-40b0-b6a8-7a3f4e9d0344" />
+4.fow hoàn chỉnh cho web IoT thực tế — khi người dùng đăng nhập, web lưu cookie/session, và các API khác chỉ truy cập được nếu đã đăng nhập.
+<img width="1695" height="645" alt="image" src="https://github.com/user-attachments/assets/adf155a7-44bd-40d7-b74f-60d9ab08a611" />
+5.Dùng để test hệ thống khi không có cảm biến thật — nó sinh dữ liệu giả như temp=28°C, hum=60% để hiển thị lên web.
+<img width="831" height="230" alt="image" src="https://github.com/user-attachments/assets/4fb4e2dc-2089-42f3-be89-15d91f3019a8" />
+6.Kết quả 
+<img width="1617" height="734" alt="image" src="https://github.com/user-attachments/assets/e608f868-0f7f-499c-86f2-1fb4c863ef99" />
 
