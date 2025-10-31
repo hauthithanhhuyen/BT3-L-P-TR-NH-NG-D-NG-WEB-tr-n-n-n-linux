@@ -18,5 +18,8 @@ LẬP TRÌNH ỨNG DỤNG WEB trên nền linux
 B1.Tạo database mới
 <img width="1678" height="472" alt="image" src="https://github.com/user-attachments/assets/170fd73c-55c1-4f4a-ae66-f93398868968" />
 B2.TẠO FLOW NODE-RED
+Tạo account admin ( dùng bcrypt hash)
+<img width="947" height="440" alt="image" src="https://github.com/user-attachments/assets/413bb53b-19ce-4f7e-a3ea-e153ec3a26ef" />
+
 
 
