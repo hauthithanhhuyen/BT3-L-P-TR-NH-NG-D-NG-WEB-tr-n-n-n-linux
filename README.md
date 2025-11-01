@@ -29,6 +29,24 @@ B2.TẠO FLOW NODE-RED
 <img width="1695" height="645" alt="image" src="https://github.com/user-attachments/assets/adf155a7-44bd-40d7-b74f-60d9ab08a611" />
 5.Dùng để test hệ thống khi không có cảm biến thật — nó sinh dữ liệu giả như temp=28°C, hum=60% để hiển thị lên web.
 <img width="831" height="230" alt="image" src="https://github.com/user-attachments/assets/4fb4e2dc-2089-42f3-be89-15d91f3019a8" />
+Thay đổi trong 5s
+<img width="1699" height="720" alt="image" src="https://github.com/user-attachments/assets/ca8cd8be-f95e-49d8-a236-188d2c2afb38" />
+
 6.Kết quả 
 <img width="1617" height="734" alt="image" src="https://github.com/user-attachments/assets/e608f868-0f7f-499c-86f2-1fb4c863ef99" />
+7. Nginx đã chạy
+<img width="1671" height="426" alt="image" src="https://github.com/user-attachments/assets/0fa6600e-c26e-46bb-8984-ee3eb51d66c3" />
+8. grafana dùng để hiển thị biểu đồ
+<img width="1266" height="681" alt="image" src="https://github.com/user-attachments/assets/717fd2a2-12a3-4a51-80d0-eeb0a4ccbc4c" />
+<img width="1621" height="808" alt="image" src="https://github.com/user-attachments/assets/ce044207-e958-4a6d-9bb4-fcb8c495952e" />
+9.influxdb để lưu giá trị lịch sử
+<img width="1480" height="899" alt="image" src="https://github.com/user-attachments/assets/7fe18284-d25e-492f-8fd1-ae291ebfd704" />
+<img width="1835" height="901" alt="image" src="https://github.com/user-attachments/assets/bbe4803f-c6cf-41d4-b2df-2f171049cd09" />
+# 5. Nginx làm web-server
+truy cập vào nodered qua cổng 80
+<img width="1893" height="869" alt="image" src="https://github.com/user-attachments/assets/15af657f-f096-491a-b183-f89b7208993d" />
+truy cập vào grafana qua cổng 80
+<img width="1850" height="914" alt="image" src="https://github.com/user-attachments/assets/5f9d6ba5-7a9e-4adb-bd71-7e30c2e45b09" />
+
+
 
