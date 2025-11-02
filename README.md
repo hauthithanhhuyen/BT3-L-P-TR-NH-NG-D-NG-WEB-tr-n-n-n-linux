@@ -54,7 +54,7 @@ Cả 3 file thầy yêu cầu e cho vào trong 1 file http://hauthanhhuyen.com/
 Truy cập vào nodered qua cổng 80
 <img width="1893" height="869" alt="image" src="https://github.com/user-attachments/assets/15af657f-f096-491a-b183-f89b7208993d" />
 Truy cập vào grafana qua cổng 80
-<img width="1850" height="914" alt="image" src="https://github.com/user-attachments/assets/5f9d6ba5-7a9e-4adb-bd71-7e30c2e45b09" />
+<img width="1445" height="483" alt="image" src="https://github.com/user-attachments/assets/7332df0f-b2b1-4c81-8a17-c7a6056237f7" />
 
 
 
