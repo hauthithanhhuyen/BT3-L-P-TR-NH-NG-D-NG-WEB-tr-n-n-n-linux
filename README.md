@@ -38,14 +38,22 @@ Thay đổi trong 5s
 <img width="1671" height="426" alt="image" src="https://github.com/user-attachments/assets/0fa6600e-c26e-46bb-8984-ee3eb51d66c3" />
 8. grafana dùng để hiển thị biểu đồ
 <img width="1266" height="681" alt="image" src="https://github.com/user-attachments/assets/717fd2a2-12a3-4a51-80d0-eeb0a4ccbc4c" />
-<img width="1621" height="808" alt="image" src="https://github.com/user-attachments/assets/ce044207-e958-4a6d-9bb4-fcb8c495952e" />
+Biểu đồ đo độ ẩm ,nhiệt độ
+<img width="1913" height="777" alt="image" src="https://github.com/user-attachments/assets/4fb69192-dc4c-48c2-853a-4aca3213b1da" />
+Trục X (ngang): là thời gian (time) 
+Trục Y (dọc): là giá trị đo được – ví dụ: nhiệt độ, độ ẩm.
 9.influxdb để lưu giá trị lịch sử
 <img width="1480" height="899" alt="image" src="https://github.com/user-attachments/assets/7fe18284-d25e-492f-8fd1-ae291ebfd704" />
 <img width="1835" height="901" alt="image" src="https://github.com/user-attachments/assets/bbe4803f-c6cf-41d4-b2df-2f171049cd09" />
+<img width="1877" height="916" alt="image" src="https://github.com/user-attachments/assets/0239182d-e7d8-4b4c-a435-b16ab40f80a7" />
+
 # 5. Nginx làm web-server
-truy cập vào nodered qua cổng 80
+Cả 3 file thầy yêu cầu e cho vào trong 1 file .
+<img width="1811" height="796" alt="image" src="https://github.com/user-attachments/assets/ddeae378-0aaf-46c1-baa3-31a56a64e6ff" />
+
+Truy cập vào nodered qua cổng 80
 <img width="1893" height="869" alt="image" src="https://github.com/user-attachments/assets/15af657f-f096-491a-b183-f89b7208993d" />
-truy cập vào grafana qua cổng 80
+Truy cập vào grafana qua cổng 80
 <img width="1850" height="914" alt="image" src="https://github.com/user-attachments/assets/5f9d6ba5-7a9e-4adb-bd71-7e30c2e45b09" />
 
 
