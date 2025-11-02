@@ -48,7 +48,7 @@ Trục Y (dọc): là giá trị đo được – ví dụ: nhiệt độ, độ
 <img width="1877" height="916" alt="image" src="https://github.com/user-attachments/assets/0239182d-e7d8-4b4c-a435-b16ab40f80a7" />
 
 # 5. Nginx làm web-server
-Cả 3 file thầy yêu cầu e cho vào trong 1 file .
+Cả 3 file thầy yêu cầu e cho vào trong 1 file http://hauthanhhuyen.com/
 <img width="1811" height="796" alt="image" src="https://github.com/user-attachments/assets/ddeae378-0aaf-46c1-baa3-31a56a64e6ff" />
 
 Truy cập vào nodered qua cổng 80
