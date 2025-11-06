@@ -1,0 +1,20 @@
+services:
+  mariadb:
+    image: mariadb:10.5
+    container_name: mariadb
+    restart: always
+    environment:
+      - MYSQL_ROOT_PASSWORD=123456
+      # 2 dòng dưới chỉ chạy khi volume TRỐNG; với volume cũ có thể giữ cũng không sao
+      - MYSQL_DATABASE=iotweb
+      - MYSQL_USER=iotuser
+      - MYSQL_PASSWORD=123456
+    ports:
+      - "3306:3306"
+    volumes:
+      - mariadb_data:/var/lib/mysql
+
+volumes:
+  mariadb_data:
+    external: true
+    name: iot-stack_mariadb_data
